@@ -71,13 +71,15 @@ h1{
     text-align: center;
     font-size: 40px;
     /* font-style: italic; */
+    padding-left:60px;
 }
 h2{
     position: relative;
     left: 34rem;
     /* text-align: center; */
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
+    padding-left:30px;
 
 }
 hr{
@@ -88,6 +90,7 @@ h5{
     left: 38rem;
     font-size: 20px;
     margin-top: -1rem;
+    
 }
 .quiz-form{
     text-align: center;
@@ -159,7 +162,7 @@ main{
 }
 #hypotenuse-btn{
     position: relative;
-    left: 17rem;
+    left: 15rem;
     top: 9rem;
     padding: 0.5rem 0.5rem;
     border-radius: 0.5rem;
